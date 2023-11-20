@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgimagesection {
+    background: transparent url('/src/images/john-mark-arnold-XNIjmb6Ax04-unsplash.jpg') no-repeat center center /cover;
+    min-height:70vh;
+    margin:0px 40px;
+        border-bottom-left-radius: 200px;
+}
+
+.mt--2 {
+    margin-top:-2px;
+}
